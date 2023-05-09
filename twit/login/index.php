@@ -10,7 +10,7 @@
 <body>
     <Center>
     <P>Welcome in Twitter</P>
-    <P>Login</P>
+    <P>Log In</P>
     <!-- je me connecte au processus php, chque entree texte à le meme nom
      sur la base de donnée et ca permet au php de recuperer chaque élement
       et de le mettre dans la base de donnée -->
