@@ -1,0 +1,78 @@
+body {
+  background-color:#f4b4c4;
+}
+
+.center {
+  text-align: center;
+}
+
+.textbox {
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 300px;
+  background-color: #ffe6f2;
+  border-radius: 20px;
+  box-shadow: 2px 2px #c74a68;
+}
+
+.button {
+  background-color: #c74a68;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px #f8c1cc;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+a {
+  color: rgb(254, 254, 254);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.link {
+  background-color: #c74a68;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px #f8c1cc;
+}
+
+div {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid pink;
+  background-color: white;
+  width: 400px;
+  border-radius: 20px;
+  box-shadow: 2px 2px #c74a68;
+}
+
+/* Style for the twits content */
+div p:first-of-type {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #ff66b3;
+}
+
+/* Style for the twits hashtags */
+div p:last-of-type {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #b30059;
+}
+
+span {
+  font-size: 12px;
+  margin-top: 5px;
+  display: block;
+  color: gray;
+}

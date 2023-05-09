@@ -1,0 +1,124 @@
+/* Set background color */
+body {
+    background-color: #f4b4c4;
+  }
+  
+  /* Style for the search link */
+  .search a {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #c74a68;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px #f8c1cc;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+
+  .content {
+    margin-top: 65px;
+  }
+
+  .content p{
+    font-size: 30px;
+  }
+
+  .title{
+    color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  text-shadow: 2px 2px #c74a68;
+  }
+  
+  /* Style for the tweet box */
+  .textbox {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffe6f2;
+    border-radius: 20px;
+    box-shadow: 2px 2px #c74a68;
+  }
+  
+  /* Style for the hashtag dropdown */
+  select {
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+    background-color: #ffe6f2;
+  }
+  
+  /* Style for the submit button */
+  .button {
+    background-color: #c74a68;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px #f8c1cc;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+  
+  /* Style for the twits */
+  .twits {
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px #c74a68;
+  }
+  
+  /* Style for the twits content */
+  .twits p:first-of-type {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ff66b3;
+  }
+  
+  /* Style for the twits hashtags */
+  .twits p:last-of-type {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #b30059;
+  }
+  
+  /* Style for the twits date */
+  .twits span {
+    display: block;
+    margin-top: 10px;
+    font-size: 12px;
+    color: gray;
+  }
+  
+  /* Style for the delete button */
+  .twits button {
+    display: block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background-color: #b30059;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
