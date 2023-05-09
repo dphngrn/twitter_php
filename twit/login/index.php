@@ -11,11 +11,9 @@
     <Center>
     <P>Welcome in Twitter</P>
     <P>Log In</P>
-    <!-- je me connecte au processus php, chque entree texte à le meme nom
-     sur la base de donnée et ca permet au php de recuperer chaque élement
-      et de le mettre dans la base de donnée -->
+    <!-- connexion processus.php
+    récupère chq elt et le met dans la base donnée -->
     <form action="process.php" method="POST" >
-        <!-- tout mettre dans une meme fenetre grace a la div -->
         <div>
       <div>
         <label for="pseudo">Username : </label>
