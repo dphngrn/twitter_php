@@ -45,7 +45,7 @@
                         <option value="#foxnews">#foxnews</option>
                     </select>
             </div>
-            <input type="submit" value="Send" style="margin-top: 50px;" class="button">
+            <input type="submit" value="Send" class="button">
             </form>
             </div>
             <?php
