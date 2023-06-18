@@ -12,16 +12,16 @@ body {
   border: none;
   border-radius: 5px;
   width: 300px;
-  background-color: #ffe6f2;
+  background-color: #e6ffee;
   border-radius: 20px;
-  box-shadow: 2px 2px #c74a68;
+  box-shadow: 2px 2px #4ac765;
 }
 
 .button {
-  background-color: #c74a68;
+  background-color: #4ac765;
     border: none;
     border-radius: 20px;
-    box-shadow: 2px 2px #f8c1cc;
+    box-shadow: 2px 2px #c1f8d6;
     color: #fff;
     cursor: pointer;
     font-size: 20px;
@@ -38,20 +38,20 @@ a:hover {
 }
 
 .link {
-  background-color: #c74a68;
+  background-color: #4ac765;
     border: none;
     border-radius: 20px;
-    box-shadow: 2px 2px #f8c1cc;
+    box-shadow: 2px 2px #c1f8d6;
 }
 
 div {
   margin-top: 20px;
   padding: 10px;
-  border: 1px solid pink;
+  border: 1px solid rgb(192, 255, 204);
   background-color: white;
   width: 400px;
   border-radius: 20px;
-  box-shadow: 2px 2px #c74a68;
+  box-shadow: 2px 2px #4ac765;
 }
 
 /* Style for the twits content */
@@ -59,7 +59,7 @@ div p:first-of-type {
   font-size: 20px;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #ff66b3;
+  color: #66ff7d;
 }
 
 /* Style for the twits hashtags */
@@ -67,7 +67,7 @@ div p:last-of-type {
   font-size: 16px;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #b30059;
+  color: #66ff7d;
 }
 
 span {
