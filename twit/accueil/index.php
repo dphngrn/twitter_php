@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style_acc1.css">
+    <link rel="stylesheet" href="style_index.css">
     <title>Acceuil</title>
 </head>
 <body>
     <Center>
+    <P class="title1">Foody<P>
     <form action="process.php" method="POST">
         <div class="search">
             <a href="search.php">Search</a>
@@ -27,7 +28,7 @@
             <div>
                 <P class="title">Tweet a twit<P>
                     <textarea name="twits_content" id="twits_content" cols="30" rows="10" class="textbox"
-                        placeholder="Contenu..." required></textarea>
+                        placeholder="Content..." required></textarea>
             </div>
             <!-- ouvre liste hashtags et permet d'en selc un assoc au tweet -->
             <div>

@@ -1,0 +1,78 @@
+body {
+    background-color:#b4f4ca;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .textbox {
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    background-color: #e6ffee;
+    border-radius: 20px;
+    box-shadow: 2px 2px #4ac765;
+  }
+  
+  .button {
+    background-color: #4ac765;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 2px 2px #c1f8d6;
+      color: #fff;
+      cursor: pointer;
+      font-size: 20px;
+      padding: 10px 20px;
+  }
+  
+  a {
+    color: rgb(254, 254, 254);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .link {
+    background-color: #4ac765;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 2px 2px #c1f8d6;
+  }
+  
+  div {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid rgb(192, 255, 204);
+    background-color: white;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 2px 2px #4ac765;
+  }
+  
+  /* Style for the twits content */
+  div p:first-of-type {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #66ff7d;
+  }
+  
+  /* Style for the twits hashtags */
+  div p:last-of-type {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #66ff7d;
+  }
+  
+  span {
+    font-size: 12px;
+    margin-top: 5px;
+    display: block;
+    color: gray;
+  }
